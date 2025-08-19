@@ -1,0 +1,12 @@
+a = input("Enter the First Number : ")
+b = input("Enter the Second Number : ")
+a=int(a)
+b=int(b)
+Add = a + b
+print ("Addition is ", Add)
+Sub = (a-b)
+print ("Subtraction is ", Sub)
+Mult = (a*b)
+print ("Multiplication is " , Mult)
+Div = (a/b)
+print ("Division is ", Div)
